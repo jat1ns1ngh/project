@@ -1,0 +1,7 @@
+# importing important libraries
+import numpy as np # for working with arrays
+import pandas as pd # for data analytics
+import matplotlib as plt # for data visualization
+import seaborn as sns # for advanced data visualization 
+import matplotlib.pyplot as plt
+
